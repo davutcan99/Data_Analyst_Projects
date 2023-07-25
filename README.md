@@ -28,6 +28,10 @@ In this project, I worked with Python and Jupyter Notebook to analyze data from 
 
 4. **Data Visualization:** I visualized the analyzed data using various Python libraries, such as Matplotlib or Seaborn, to create informative plots and charts.
 
+### Amazon Web Scraper
+
+I also developed a web scraping project to extract data from Amazon's product page. However, it's essential to note that web scraping Amazon's website without proper authorization is against their Terms of Service and should not be done.
+
 ## Exercise Codes
 
 Apart from the projects mentioned above, I have also included exercise codes that showcase my proficiency in different data analysis techniques and tools. These exercises cover various aspects of data analysis, such as:
@@ -50,3 +54,5 @@ Throughout the portfolio, I have used the following technologies and tools:
 - SQL
 - Tableau
 - Excel
+
+Please note that web scraping Amazon's website, as shown in the "Amazon Web Scraper" project, is against Amazon's policies and is not recommended. Always ensure that you comply with website terms of service and policies when conducting web scraping activities.
